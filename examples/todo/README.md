@@ -217,15 +217,3 @@ Choose an option: 6
 Todos imported successfully from Todo.json!
 Loaded 2 todo(s)
 ```
-
-## Next Steps
-
-Try extending this example by:
-- Adding due dates to todos
-- Implementing priority levels
-- Adding search/filter functionality
-- Adding CSV export functionality using the `CSVAdapter`
-- Implementing undo/redo functionality
-- Adding validation for duplicate todos
-- Implementing auto-save functionality
-- Adding categories/tags for todos
